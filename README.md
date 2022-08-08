@@ -23,3 +23,8 @@ yarn lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 # vue-sfc-demo
+
+# 运用到插件和ui库
+## element-ui
+## vuex
+## vue-router
